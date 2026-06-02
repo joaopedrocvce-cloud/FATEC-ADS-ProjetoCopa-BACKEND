@@ -1,0 +1,10 @@
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇧🇷 Brasil', 'Carlos Ancelotti', 'Marquinhos', 'Alisson', 'C');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇨🇴 Colômbia', 'Carlos Queiroz', 'Radamel Falcao', 'David Ospina', 'B');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇺🇾 Uruguai', 'Marcelo Bielsa', 'Ronald Araujo', 'Sergio Rochet', 'D');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇵🇾 Paraguai', 'Daniel Garnero', 'Gustavo Gómez', 'Santiago Rojas', 'E');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇦🇷 Argentina', 'Lionel Scaloni', 'Lionel Messi', 'Emiliano Martínez', 'F');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇪🇨 Equador', 'Félix Sánchez Bas', 'Enner Valencia', 'Hernán Galíndez', 'G');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇵🇪 Peru', 'Jorge Fossati', 'Paolo Guerrero', 'Pedro Gallese', 'H');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇻🇪 Venezuela', 'Fernando Batista', 'Tomás Rincón', 'Rafael Romo', 'I');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇨🇱 Chile', 'Ricardo Gareca', 'Alexis Sánchez', 'Claudio Bravo', 'J');
+INSERT INTO TBL_TIME (TEAM, TRAINER, CAPTAIN, GOALKEEPER, BRACKET) VALUES ('🇧🇴 Bolívia', 'Antonio Carlos Zago', 'Marcelo Martins Moreno', 'Guillermo Vizcarra', 'K');
