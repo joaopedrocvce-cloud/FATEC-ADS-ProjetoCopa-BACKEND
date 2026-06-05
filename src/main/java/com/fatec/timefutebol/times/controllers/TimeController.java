@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
-@RequestMapping("/times")
+@RequestMapping("/teams")
 @CrossOrigin
 public class TimeController {
 
